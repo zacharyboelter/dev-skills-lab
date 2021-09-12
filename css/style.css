@@ -1,0 +1,71 @@
+
+.box {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 500px;
+    
+}
+
+ul {
+    display: block;
+    text-align: left;
+    list-style-type: none;
+    margin: 5px 70px;
+    padding: 5px 53px;
+    max-width: 500px;
+}
+
+.skill-li {
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    color:rgb(255, 184, 51);
+}
+
+.input {
+    border: 3px solid #85c085;
+    width: 328px; 
+    height: 20px;  
+}
+
+
+.container {
+    box-sizing: border-box;
+    margin: 20px auto;
+    max-width: 800px;
+    max-height: 800px;
+    padding: 50px;
+    background-color: rgb(255, 255, 255) ;
+    border: 2px solid rgb(202, 199, 199);
+    display: block;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    margin: auto;
+    color: azure;
+    background-color: #85c085;
+    max-width: 360px;
+    font-weight: 300;
+    padding: 5px 40px;
+    margin-bottom: 25px;
+} 
+
+.add-btn {
+   
+    border: 3px solid #85c085;
+    background-color: white;
+    color: #679267;
+    width: 100px;
+    height: 28px; 
+}
+
+.x-btn {
+    background-color:rgb(255, 113, 113);
+    color: white;
+    border: none;
+    margin: 0px 10px 0px 0px;
+    padding: 3px 6px;
+}
